@@ -1,6 +1,3 @@
-streamlit
-seaborn
-matplolib
-pandas
-datetime
-numpy
+streamlit>=1.0
+seaborn>=0.11
+matplotlib>=3.3
