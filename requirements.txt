@@ -1,3 +1,6 @@
 streamlit
 seaborn
 matplolib
+pandas
+datetime
+numpy
